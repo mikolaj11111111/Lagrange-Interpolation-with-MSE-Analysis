@@ -20,3 +20,5 @@ Requires "dane.txt" with interpolation data in format:
 ```
 xi: [x values]
 f(xi): [corresponding function values]
+```
+Program analyzes interpolation quality and finds optimal node count.
